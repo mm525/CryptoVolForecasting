@@ -1,1 +1,2 @@
-# ETH-Volatility-Forecasting
+# ETH Volatility Forecasting
+
